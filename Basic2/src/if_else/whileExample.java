@@ -9,7 +9,7 @@ public class whileExample {
 				System.out.println("Everything is Everywhrere" + i);
 				i++;
 			}
-
+//DWDWWQDWQDWQDQW
 	}
 
 }
